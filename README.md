@@ -3,7 +3,8 @@
 <br>
 
 *****
-**Beginner C++ Developer** with a strong interest in **computer graphics** and **real-time rendering**.  
+### 👋 Hi!
+I'm **Beginner C++ Developer** with a strong interest in **computer graphics** and **real-time rendering**.  
 Currently focusing on:
 > - Algorithm problem-solving
 > - Shader programming & GPU pipeline
