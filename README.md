@@ -10,8 +10,4 @@ Currently focusing on:
 > - Engine architecture & internals
 *****
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevHana86&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHana86&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Profile views](https://komarev.com/ghpvc/?username=DevHana86&color=ff69b4)
