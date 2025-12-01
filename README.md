@@ -8,4 +8,3 @@ Currently focusing on:
 > - Algorithm problem-solving
 > - Shader programming & GPU pipeline
 > - Engine architecture & internals
-*****
