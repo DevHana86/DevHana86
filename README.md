@@ -9,5 +9,3 @@ Currently focusing on:
 > - Shader programming & GPU pipeline
 > - Engine architecture & internals
 *****
-
-![Profile views](https://komarev.com/ghpvc/?username=DevHana86&color=ff69b4)
